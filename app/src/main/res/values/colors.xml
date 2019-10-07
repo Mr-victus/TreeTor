@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55D511</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#55D511</color>
+    <color name="deepgreen">#1A6B33</color>
+    <color name="mediumgreen">#4B6254</color>
+    <color name="lightgreen">#5C9045</color>
+    <color name="treetorgreen">#55D511</color>
+</resources>
